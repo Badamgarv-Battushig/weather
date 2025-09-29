@@ -1,4 +1,4 @@
-# Here is my Weather Project
+# Weather Project
 
 ## Purpose
 This project compares rainfall in Seattle with another city (2018–2022) using NOAA precipitation data.
