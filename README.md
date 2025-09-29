@@ -1,4 +1,4 @@
-# Weather Project
+# Here is my Weather Project
 
 ## Purpose
 This project compares rainfall in Seattle with another city (2018–2022) using NOAA precipitation data.
@@ -9,9 +9,9 @@ This project compares rainfall in Seattle with another city (2018–2022) using 
 - [Longview TX Rain Data](https://github.com/Badamgarv-Battushig/weather/blob/main/data/longview_rain.csv)
 
 ## Structure
-- `data/`: Raw and processed datasets  
-- `code/`: Jupyter notebooks and Python scripts  
-- `reports/`: Generated reports and visualizations  
+- `data`: Raw and processed datasets  
+- `code`: Jupyter notebooks and Python scripts  
+- `reports`: Generated reports and visualizations  
 - `requirements.txt`: Dependencies  
 
 ---
