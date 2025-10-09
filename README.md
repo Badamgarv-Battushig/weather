@@ -8,7 +8,7 @@ This project compares rainfall in Seattle, WA and Longview, TX between 2018 and 
 - [Longview TX Rain Data](https://github.com/Badamgarv-Battushig/weather/blob/main/data/longview_rain.csv)
 
 ## Tools Used
--Python, Pandas, NumPy, Matplotlib, Seaborn, and Jupyter Notebook.
+- Python, Pandas, NumPy, Matplotlib, Seaborn, and Jupyter Notebook.
 
 ## Structure
 - `data`: Raw and processed datasets  
